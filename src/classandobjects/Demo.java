@@ -8,7 +8,11 @@ public void demo1(){
     System.out.println("demo1 non-static method"); // - object is required
 }
 
+
+
+
 public static void demo2(){
     System.out.println("demo2 static method");
 }
 }
+//hrk
