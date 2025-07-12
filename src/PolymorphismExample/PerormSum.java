@@ -26,7 +26,7 @@ public class PerormSum {
         System.out.println("sum of two int nos is : "+(a+b));
     }
 
-    public void sum(double a,float b){
-        System.out.println("sum of two int nos is : "+(a+b));
-    }
+//    public void sum(double a,float b){
+//        System.out.println("sum of two int nos is : "+(a+b));
+//    }
 }

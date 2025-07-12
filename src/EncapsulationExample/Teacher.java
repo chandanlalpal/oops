@@ -7,6 +7,7 @@ public class Teacher {
     private String qualification;
     private double salary;
     private String email;
+    int markd=56;
 
 
     //getter - used to fetch/get data

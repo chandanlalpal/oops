@@ -8,7 +8,7 @@ public class MainInheritanceClass {
         vehicle.start();
         vehicle.stop();
         vehicle.fuel();
-
+        System.out.println("good ");
 
         System.out.println("--------Child Air Vehicle Class-------------");
         AirVehicle airVehicle=new AirVehicle();

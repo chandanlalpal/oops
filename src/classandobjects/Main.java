@@ -5,7 +5,7 @@ package classandobjects;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello everyone! welcome to Spring1 module!!!");
+
 
         Student student1 = new Student();//create a object of student class
 
