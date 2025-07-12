@@ -12,6 +12,3 @@ public static void demo2(){
     System.out.println("demo2 static method");
 }
 }
-//54112
-//54654354
-
