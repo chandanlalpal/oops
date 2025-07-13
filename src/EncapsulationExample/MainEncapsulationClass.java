@@ -16,7 +16,7 @@ public class MainEncapsulationClass {
 
 
        // System.out.println("teacher name is: "+ teacher.getName());
-        System.out.println("teacher qualification is: "+teacher.getQualification());
+      //  System.out.println("teacher qualification is: "+teacher.getQualification());
 
     }
 }
