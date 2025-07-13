@@ -15,7 +15,7 @@ public class MainEncapsulationClass {
         // you also pirnt the value separatly
 
 
-        System.out.println("teacher name is: "+ teacher.getName());
+       // System.out.println("teacher name is: "+ teacher.getName());
         System.out.println("teacher qualification is: "+teacher.getQualification());
 
     }
