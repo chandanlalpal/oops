@@ -6,6 +6,7 @@ public String name;
 
 public void printNameAndAge(String name, int age){
     this.name=name;
-    this.age=age;
+   // this.age=age;
 }
+//
 }
