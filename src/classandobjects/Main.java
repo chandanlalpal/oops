@@ -9,7 +9,7 @@ public class Main {
 
         Student student1 = new Student();//create a object of student class
 
-        System.out.println("student1 object before assigning values : "+student1);//print default values
+        //System.out.println("student1 object before assigning values : "+student1);//print default values
 
         // assigning the values to the object
         student1.id = 123;
