@@ -17,6 +17,7 @@ public class Main {
         student1.email ="ajay123@gmail.com";
         student1.grade="5th grade";
         student1.dob="12/12/2014";
+        //
 
         System.out.println("student1 object after assigning values : "+student1);
 
@@ -38,6 +39,7 @@ public class Main {
 
         demo.demo1();
         Demo.demo2();
+        //
 
     }
 }
