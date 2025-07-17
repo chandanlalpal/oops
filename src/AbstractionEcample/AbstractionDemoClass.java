@@ -6,7 +6,7 @@ public abstract  class AbstractionDemoClass {
 
     public void demo2(){
 
-        System.out.println("demo2 concerete method in Abstr")
+        System.out.println("demo2 concerete method in Abstr");
 
     }
 
