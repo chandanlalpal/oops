@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-of-oops.iml" filepath="$PROJECT_DIR$/basic-of-oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutithreadin/mutithreadin.iml" filepath="$PROJECT_DIR$/mutithreadin/mutithreadin.iml" />
     </modules>
   </component>
 </project>
